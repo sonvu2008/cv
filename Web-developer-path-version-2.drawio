@@ -1,199 +1,196 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T09:56:26.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XBi4uLYQmLg18Ex8sane" version="13.8.9-1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T03:28:04.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3vjlfmDp7uvO-egJATiu" version="14.1.3" type="github">
   <diagram id="CsrqnA929PZ32z1xLhLB" name="Page-1">
-    <mxGraphModel dx="2327" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;START&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;&lt;b style=&quot;font-size: 60px;&quot;&gt;START&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry y="40" width="250" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-3" value="&lt;font style=&quot;font-size: 30px&quot;&gt;HTML&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-3" value="&lt;font style=&quot;font-size: 30px&quot;&gt;HTML&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="280" y="290" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-4" value="&lt;font style=&quot;font-size: 30px&quot;&gt;CSS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-4" value="&lt;font style=&quot;font-size: 30px&quot;&gt;CSS&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="490" y="310" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-5" value="&lt;font style=&quot;font-size: 45px&quot;&gt;Front-End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-5" value="&lt;font style=&quot;font-size: 45px&quot;&gt;Front-End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="390" y="85" width="270" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-9" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;exitX=0.629;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;rounded=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-3" target="RULEtSPXPsWNLCoPCkr5-5">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-9" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;exitX=0.629;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;rounded=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-3" target="RULEtSPXPsWNLCoPCkr5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="230" as="sourcePoint" />
             <mxPoint x="440" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-4" target="RULEtSPXPsWNLCoPCkr5-5">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-10" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-4" target="RULEtSPXPsWNLCoPCkr5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="240" as="sourcePoint" />
             <mxPoint x="730" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=50;endSize=6.833333333333333;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-1" target="RULEtSPXPsWNLCoPCkr5-5">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-11" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endWidth=50;endSize=6.833333333333333;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RULEtSPXPsWNLCoPCkr5-1" target="RULEtSPXPsWNLCoPCkr5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="100" as="sourcePoint" />
             <mxPoint x="300" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-13" value="&lt;font style=&quot;font-size: 35px&quot;&gt;JavaScript&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-13" value="&lt;font style=&quot;font-size: 35px&quot;&gt;JavaScript&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="700" y="270" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-14" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=1;entryDx=0;entryDy=0;rounded=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-5">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-14" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=1;entryDx=0;entryDy=0;rounded=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="270" as="sourcePoint" />
             <mxPoint x="910" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-15" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;endWidth=50;endSize=6.833333333333333;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-5" target="RULEtSPXPsWNLCoPCkr5-16">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-15" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;endWidth=50;endSize=6.833333333333333;entryX=0;entryY=0.532;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-5" target="RULEtSPXPsWNLCoPCkr5-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="99" as="sourcePoint" />
             <mxPoint x="970" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-16" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;Back-End&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-16" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;Back-End&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="850" y="90" width="330" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-17" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rounded=0;sketch=1;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-16">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-17" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rounded=0;sketch=1;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1026.6100000000001" y="264.04" as="sourcePoint" />
             <mxPoint x="889.9983476483184" y="140.00194077712538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-18" value="&lt;font style=&quot;font-size: 35px&quot;&gt;NodeJs&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-18" value="&lt;font style=&quot;font-size: 35px&quot;&gt;NodeJs&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="940" y="305" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-19" value="" style="endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-18">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-19" value="" style="endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-13" target="RULEtSPXPsWNLCoPCkr5-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="310" as="sourcePoint" />
             <mxPoint x="980" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-20" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-18" target="RULEtSPXPsWNLCoPCkr5-16">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-20" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-18" target="RULEtSPXPsWNLCoPCkr5-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="270" as="sourcePoint" />
             <mxPoint x="1105.7928759161528" y="184.7572554969156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-22" value="&lt;font style=&quot;font-size: 30px&quot;&gt;API&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-22" value="&lt;font style=&quot;font-size: 30px&quot;&gt;API&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="1080" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-22" target="RULEtSPXPsWNLCoPCkr5-16">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-22" target="RULEtSPXPsWNLCoPCkr5-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1191.53" y="270" as="sourcePoint" />
             <mxPoint x="1140" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-24" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Git&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-24" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Git&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="1200" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=1;entryDx=0;entryDy=0;rounded=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-24" target="RULEtSPXPsWNLCoPCkr5-16">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=1;entryDx=0;entryDy=0;rounded=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-24" target="RULEtSPXPsWNLCoPCkr5-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1280" y="264" as="sourcePoint" />
             <mxPoint x="1129.999415460181" y="140.00194077712413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 53px&quot; face=&quot;Nerko One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Nerko+One&quot;&gt;FULL STACK DEVELOPER&lt;/font&gt;&lt;/b&gt;" style="shape=switch;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 53px&quot; face=&quot;Nerko One&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Nerko+One&quot;&gt;FULL STACK DEVELOPER&lt;/font&gt;&lt;/b&gt;" style="shape=switch;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="910" y="680" width="490" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-31" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-31" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="30" y="410" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-35" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=105;rounded=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rotation=90;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="290" width="550" height="185" as="geometry" />
-        </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-36" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endWidth=50;endSize=6.833333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-1" target="RULEtSPXPsWNLCoPCkr5-31">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-36" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endWidth=50;endSize=6.833333333333333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-1" target="RULEtSPXPsWNLCoPCkr5-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="250" as="sourcePoint" />
             <mxPoint x="260" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-39" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-31" target="RULEtSPXPsWNLCoPCkr5-40">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-39" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RULEtSPXPsWNLCoPCkr5-40" target="RULEtSPXPsWNLCoPCkr5-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="500" as="sourcePoint" />
-            <mxPoint x="380" y="420" as="targetPoint" />
+            <mxPoint x="330" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-40" value="&lt;font style=&quot;font-size: 30px&quot;&gt;SQL&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-40" value="&lt;font style=&quot;font-size: 30px&quot;&gt;SQL&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="360" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-42" value="&lt;font style=&quot;font-size: 35px&quot;&gt;MongoDB&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-42" value="&lt;font style=&quot;font-size: 35px&quot;&gt;MongoDB&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="350" y="550" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-43" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" target="RULEtSPXPsWNLCoPCkr5-42">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-43" value="" style="shape=flexArrow;endArrow=classic;html=1;dashed=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;exitX=-0.007;exitY=0.345;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.933;entryY=0.772;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="RULEtSPXPsWNLCoPCkr5-31" edge="1" source="RULEtSPXPsWNLCoPCkr5-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="502" as="sourcePoint" />
-            <mxPoint x="404.75" y="465" as="targetPoint" />
+            <mxPoint x="290" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-45" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;DevOps&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-45" value="&lt;font style=&quot;font-size: 45px&quot;&gt;&lt;b&gt;DevOps&lt;/b&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="250" y="680" width="330" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="570" y="720" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-49" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="90" y="710" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rotation=105;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rotation=105;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="31.25" y="630" width="187.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-53" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.368;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-56" target="RULEtSPXPsWNLCoPCkr5-13">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-53" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.368;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-56" target="RULEtSPXPsWNLCoPCkr5-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="725" y="400" as="sourcePoint" />
             <mxPoint x="870" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-54" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;Angular&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-54" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;Angular&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="810" y="441.25" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-55" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-54">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-55" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-54" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="870" y="380" as="sourcePoint" />
             <mxPoint x="840" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-56" value="&lt;i style=&quot;font-size: 30px&quot;&gt;ReactJs&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-56" value="&lt;i style=&quot;font-size: 30px&quot;&gt;ReactJs&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="700" y="385" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-58" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Advanced CSS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-58" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Advanced CSS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="490" y="460" width="220" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-60" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0.72;entryY=1.02;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;entryPerimeter=0;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-58" target="RULEtSPXPsWNLCoPCkr5-4">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-60" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0.72;entryY=1.02;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;entryPerimeter=0;" parent="1" source="RULEtSPXPsWNLCoPCkr5-58" target="RULEtSPXPsWNLCoPCkr5-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="440" as="sourcePoint" />
             <mxPoint x="680" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-61" value="&lt;font style=&quot;font-size: 30px&quot;&gt;ExpressJS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-61" value="&lt;font style=&quot;font-size: 30px&quot;&gt;ExpressJS&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="900" y="536.25" width="220" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-62" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-61" target="RULEtSPXPsWNLCoPCkr5-18">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-62" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-61" target="RULEtSPXPsWNLCoPCkr5-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="510" as="sourcePoint" />
             <mxPoint x="1030" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-63" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;RESTful&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=none;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-63" value="&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;RESTful&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;fillColor=none;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="1060" y="430" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-64" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-63" target="RULEtSPXPsWNLCoPCkr5-22">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-64" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-63" target="RULEtSPXPsWNLCoPCkr5-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="385.16" as="sourcePoint" />
             <mxPoint x="1122.56" y="340.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-65" value="&lt;i style=&quot;font-size: 30px&quot;&gt;Github&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-65" value="&lt;i style=&quot;font-size: 30px&quot;&gt;Github&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="1170" y="496.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-66" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;exitX=0.575;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-65">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-66" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;sketch=1;exitX=0.575;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-65" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1250" y="520" as="sourcePoint" />
-            <mxPoint x="1240" y="340" as="targetPoint" />
+            <mxPoint x="1240" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-67" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Mongoose&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-67" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Mongoose&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=1;fillColor=none;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="615" y="600" width="170" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-68" value="" style="curved=1;endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="1" source="RULEtSPXPsWNLCoPCkr5-67" target="RULEtSPXPsWNLCoPCkr5-42">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-68" value="" style="curved=1;endArrow=classic;html=1;dashed=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" parent="1" source="RULEtSPXPsWNLCoPCkr5-67" target="RULEtSPXPsWNLCoPCkr5-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="597.5" as="sourcePoint" />
             <mxPoint x="560" y="567.5" as="targetPoint" />
@@ -203,8 +200,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RULEtSPXPsWNLCoPCkr5-73" value="&lt;font face=&quot;Londrina Sketch&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Londrina+Sketch&quot; style=&quot;font-size: 48px&quot;&gt;&lt;b&gt;Road map to become a&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font&gt;FULL STACK WEB DEVELOPER&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="RULEtSPXPsWNLCoPCkr5-73" value="&lt;font face=&quot;Londrina Sketch&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Londrina+Sketch&quot; style=&quot;font-size: 48px&quot;&gt;&lt;b&gt;Road map to become a&amp;nbsp;&lt;span style=&quot;text-align: center&quot;&gt;&lt;font&gt;FULL STACK WEB DEVELOPER&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="310" y="10" width="940" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UXTaZUjnU3X2tG4UIjb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;rotation=-165;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="170" width="167.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5UXTaZUjnU3X2tG4UIjb-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;sketch=1;fillColor=#A8DADC;fontFamily=Cabin Sketch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCabin%2BSketch;fontSize=60;strokeColor=#457B9D;fontColor=#1D3557;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="400" width="480" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
